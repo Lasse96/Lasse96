@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently looking for work as front-end developer<br>🇳🇴  Based in Bergen, Norway<br>✉️ Contact me at lasse_strand_96@hotmail.com<br> <br><br>
+🔭 Currently looking for work as front-end developer<br>🇳🇴  Based in Bergen, Norway<br>✉️ Contact me at lasse_strand_96@hotmail.com<br> Check out my portfolio: https://superb-chebakia-69d769.netlify.app/ <br><br>
 
 
 ## 🌐 Socials:
